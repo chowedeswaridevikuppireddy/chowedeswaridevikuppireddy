@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me mail
 - 😄 Pronouns: chinna
-- ⚡ Fun fact: no one can listen about fact..
+- ⚡ Fun fact: no one can listen about fact...
 
 <!---
 chowedeswaridevikuppireddy/chowedeswaridevikuppireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
