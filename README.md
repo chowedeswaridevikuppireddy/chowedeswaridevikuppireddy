@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chowedeswaridevikuppireddy
+- 👋 Hi, I’m @chowdeswaridevikuppireddy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on companies
