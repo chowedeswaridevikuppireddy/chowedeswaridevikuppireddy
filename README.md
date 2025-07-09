@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chowdeswaridevikuppireddy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning B.tech
-- 💞️ I’m looking to collaborate on companies
+- 🌱 I have been completed my B.tech
+- 💞️ I’m looking to collaborate with companies
 - 📫 How to reach me mail
 - 😄 Pronouns: chinna
 - ⚡ Fun fact: no one can listen about fact...
