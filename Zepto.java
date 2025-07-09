@@ -1,0 +1,58 @@
+class Zepto {
+    public static void main(String[] args) {
+        System.out.println("Zepto");
+        System.out.println("9876543210");
+        System.out.println("Address : kukatpally,KPHB,Hyderabad,pincode: 500085");
+       System.out.println("========================================================");
+       System.out.print("item           ");
+       System.out.print("price            ");
+       System.out.print("Quantity         ");
+       System.out.println("Total\n"          );
+       String item1="Maggi          ";
+       double item1price=300       ;
+       double item1Quantity=3      ;
+       double item1total=item1price*item1Quantity;
+       System.out.print(item1);
+       System.out.print(item1price);
+       System.out.print("              "+item1Quantity);
+       System.out.println("            "+item1total);
+       String item2="Coffee         ";
+       double item2price=100       ;
+       double item2Quantity=1      ;
+       double item2total=item1price*item1Quantity;
+       System.out.print(item2);
+       System.out.print(item2price);
+       System.out.print("              "+item2Quantity);
+       System.out.println("            "+item2total);
+       String item3="lays           ";
+       double item3price=150       ;
+       double item3Quantity=3      ;
+       double item3total=item3price*item3Quantity;
+       System.out.print(item3);
+       System.out.print(item3price);
+       System.out.print("              "+item3Quantity);
+       System.out.println("            "+item3total);
+       String item4="Mangoes        ";
+       double item4price=250       ;
+       double item4Quantity=5      ;
+       double item4total=item4price*item4Quantity;
+       System.out.print(item4);
+       System.out.print(item4price);
+       System.out.print("              "+item4Quantity);
+       System.out.println("            "+item4total);
+       System.out.println("========================================================");
+       System.out.print("FinalTotal                                       ");
+       double FinalTotal=item1total+item2total+item3total+item4total;
+       System.out.println(FinalTotal);
+       System.out.print("CGST                                              ");
+       double CGST=(12.0/100)*3500;
+       System.out.println(CGST);
+       System.out.print("SGST                                              ");
+       double SGST=(12.0/100)*3500;
+       System.out.println(SGST);
+       System.out.println("=========================================================");
+       System.out.print("BillAmount                                        ");
+       double BillAmount=FinalTotal+CGST+SGST;
+       System.out.println(BillAmount);
+    }
+}
